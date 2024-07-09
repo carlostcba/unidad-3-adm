@@ -25,22 +25,28 @@ En 2019, se lanzó la versión 4, que incorpora metodologías ágiles y DevOps, 
 | **Orientación al cliente** | Limitada, más centrada en TI interna      | Mayor enfoque en la entrega de servicios y satisfacción del cliente | Orientación al cliente, alineación con los objetivos del negocio | Centrado en la co-creación de valor con el cliente, mayor énfasis en la experiencia del usuario y resultados de negocio |
 
 
-**Preguntas de Examen:**
-- ¿Qué es ITIL?
-- ¿Cómo ha evolucionado ITIL desde su versión 1 hasta la versión 4?
-  
-**Respuestas:**
 - ITIL es una biblioteca de infraestructura de tecnología de la información que proporciona una visión integral de la gestión de servicios de TI.
 - ITIL ha evolucionado desde la versión 1 con más de 40 publicaciones, pasando por la versión 2 que consolidó estas en 10, la versión 3 que introdujo el ciclo de vida del servicio y la versión 4 que incorpora metodologías ágiles y DevOps.
 
+## Provee
+
+Proporciona guías de calidad para la prestación de servicios de IT además de los procesos, funciones y otras competencias necesarias para sustentarlos.
+
+Características que contribuyen a entregar valor al negocio:
+- Vendedor neutral: aplicables a cualquier organización de IT.
+- Sin prescripción: prácticas que pueden ser aplicadas a todo tipo de organización.
+- Mejor Práctica: presenta experiencias y conocimiento de los mejores proveedores de servicio en el mundo.
+
+- **ITIL provee mapas de procesos y sinergia con otros frameworks de mejores prácticas como COBIT.**
+
+- Ud. decide como usar y aplicar ITIL
+- Ud. determina como ITIL moldeará su organización y la adminisitración de los servicios basado en sus requerimientos de negocio y prioridades.
+
+
 ## Beneficios de Implementar ITIL
 
-Implementar ITIL asegura que los servicios de TI entreguen valor a los clientes, integrando la estrategia del servicio con la del negocio y las necesidades del cliente. Permite medir, monitorear y optimizar los servicios de TI, gestionar inversiones y presupuestos, y manejar riesgos, conocimientos, competencias y recursos de manera eficiente.
-
-**Preguntas de Examen:**
-- ¿Cuáles son los beneficios de implementar ITIL en una organización?
-  
-**Respuesta:**
+- Implementar ITIL asegura que los servicios de TI entreguen valor a los clientes, integrando la estrategia del servicio con la del negocio y las necesidades del cliente. 
+- Permite medir, monitorear y optimizar los servicios de TI, gestionar inversiones y presupuestos, y manejar riesgos, conocimientos, competencias y recursos de manera eficiente.
 - Asegura la entrega de valor a los clientes, integra la estrategia del servicio con la del negocio, permite medir y optimizar los servicios de TI, gestionar inversiones y presupuestos, y manejar riesgos, conocimientos, competencias y recursos de manera eficiente.
 
 ## Conceptos Clave de ITIL
@@ -61,6 +67,9 @@ La gestión de servicios es un conjunto de habilidades organizacionales especial
 **Respuestas:**
 - La gestión de servicios es un conjunto de habilidades organizacionales especializadas para proveer valor a los clientes en forma de servicios.
 - Las características de los servicios son intangibilidad, inseparabilidad, heterogeneidad y perecederos.
+
+
+
 
 ## Modelo de las Cuatro Dimensiones de ITIL 4
 
